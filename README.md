@@ -37,9 +37,12 @@ This report compares where students were placed for their clinicals versus where
 ---
 
 ## 📁 Files
-- <a href="https://github.com/AlfredoDGallardo/Mileage-to-Clinicals/blob/main/Anonimyze_Sample_Mileage%20to%20clinicals.xlsx">Excel File</a> – Main anonymized report
-- Dashboard and Report Screenshots:
-  - ![Mileage Trend Dashboard](https://raw.githubusercontent.com/AlfredoDGallardo/Mileage-to-Clinicals/main/Mileage%20to%20Clinicals%20Dashboard.png)
+- <a href="https://github.com/AlfredoDGallardo/Mileage-To-Clinicals/blob/main/Anonimyze_Sample_Mileage%20to%20clinicals.xlsx">Excel File</a> – Main Exce File
+- Dashboard and Visual Trend Screenshots:
+  - <img width="2240" height="696" alt="image" src="https://github.com/user-attachments/assets/9d501eff-5f82-4c80-b8d7-6e821329024d" />
+
+
+
 
 ---
 
